@@ -1,0 +1,93 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.section
+{
+    margin-top:20px;
+    display: inline;
+    align-items: center;
+    justify-content: center;
+}
+.fix_header{
+    width: 100%;
+    top:0;
+    height: 3rem;
+    text-align: left;
+    color: aliceblue;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 10px;
+}
+.fix_header_admin_panel{
+    width: 100%;
+    top:0;
+    height: 3rem;
+    text-align: right;
+    color: aliceblue;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding-left: 10px;
+}
+.container1
+{
+    width: 20em;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  border-radius: 11px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+  margin-top: 60px;
+}
+.container2{
+    width: 20em;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  border-radius: 11px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+  margin-top: 60px; 
+}
+.img{
+    
+    height: 10em;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+.admin_img{
+    width:7rem;
+    height: 7rem;
+    margin:0;
+}
+.user_img{
+    width:7rem;
+    height:7rem;
+    margin:0;
+}
+
+.fix_footer
+{
+    width:100%;
+    bottom: 0;
+    height:3rem;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
